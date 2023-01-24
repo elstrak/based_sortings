@@ -1,7 +1,7 @@
 # based_sortings
 Simple implementation of bubble sorting (upgraded) and simple merge sorting (through recursion) for structures.
 
-##Usage:
+## Usage:
 
 1) Create a file based on structure used in sortings.cpp (generator included to this repo) 
 
